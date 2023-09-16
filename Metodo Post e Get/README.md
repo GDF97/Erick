@@ -21,6 +21,10 @@ Exemplo(Codigo)
 
 Com isso feito utilizando metodo _GET_ teremos isso:
 
+
+https://github.com/GDF97/Erick/assets/117999512/95c25491-ee19-4e10-a75c-8ed5e28949d0
+
+
 No metodo _POST_ as informações e as variaveis não aparecem no url sendo assim mais seguro
 
 Exemplo(Codigo HTML):
@@ -67,3 +71,7 @@ Exemplo(Codigo PHP):
 ```
 
 Com isso feito utilizando metodo _POST_ teremos isso:
+
+
+https://github.com/GDF97/Erick/assets/117999512/cfbaf963-3814-453e-af7a-7d1df28e4a63
+
